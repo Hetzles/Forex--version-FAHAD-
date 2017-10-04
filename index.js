@@ -9,7 +9,12 @@ function omvandla() {
 	if(type1 =="USD") {
 		inp *= 8;
 	}
-	if (type2 =="")
+	if (type1 =="EUR") {
+		inp
+	}
+	
+	
+	if (type2 =="USD")
 	
 	
 	
