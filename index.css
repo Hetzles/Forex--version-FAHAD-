@@ -1,3 +1,23 @@
+.menu {
+	display: block;
+	background-color: rgba(128,128,128,0.75);
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #191970;
+}
+p {
+	font-size: 30px;
+	margin: 0px 10px ;
+	display: inline-block;
+	color: white;
+}
 .center {
 	text-align: center;
+	margin: 100px 0px 0px 0px;
+	
+}
+.center select, .center input {
+	font-size: 45px;
 }
