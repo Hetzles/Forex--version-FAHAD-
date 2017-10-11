@@ -31,8 +31,4 @@ p {
    font-size: 30px;
    transition: color 5000ms;
 }
-:not(th) > p:hover {
 
-	font-size: 50px;
-	transition: font-size 200ms;
-}
