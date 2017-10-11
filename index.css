@@ -21,3 +21,18 @@ p {
 .center select, .center input {
 	font-size: 45px;
 }
+#logga {
+	text-align: center; 
+	color: #0101DF;
+	font-size: 50px;
+}
+
+p {  
+   font-size: 30px;
+   transition: color 5000ms;
+}
+:not(th) > p:hover {
+
+	font-size: 50px;
+	transition: font-size 200ms;
+}
